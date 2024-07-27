@@ -1,0 +1,69 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header {
+  margin-bottom: 30px;
+  padding: 20px;
+}
+
+.navbar {
+  background-color: #e2edff;
+}
+
+.navbar-brand,
+.nav-link {
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.sambutan-kepala-sekolah {
+  text-align: center;
+  margin-bottom: 30px;
+  background-color: #e2edff;
+}
+
+.sambutan-kepala-sekolah h2 {
+  margin-bottom: 20px;
+}
+
+.sambutan-kepala-sekolah img {
+  max-width: 100%;
+  height: auto;
+}
+
+main {
+  padding: 20px;
+  margin-top: 30px;
+}
+
+.visi-misi {
+  background-color: #e2edff;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.visi-misi h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.visi-misi ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.fasilitas-sekolah .card-body i {
+  color: #007bff;
+}
+
+.map-container {
+  height: 300px;
+}
+footer {
+  background-color: #e2edff;
+}
